@@ -4,11 +4,11 @@ This project analyzes Uber 2014 NYC pickup data, explores trip patterns, and for
 
 ## Project Structure
 
-uber-trip-forecasting
-├── data/ # Raw Uber CSV files
-├── notebooks/ # Main analysis and model training Jupyter notebook
-├── requirements.txt # Dependencies
-└── README.md
+uber-trip-forecasting/
+├── data/               # Raw Uber CSV files
+├── notebooks/          # Main analysis and model training Jupyter notebooks
+├── requirements.txt    # Project dependencies
+└── README.md           # Project documentation
 
 
 ## Quick Start
